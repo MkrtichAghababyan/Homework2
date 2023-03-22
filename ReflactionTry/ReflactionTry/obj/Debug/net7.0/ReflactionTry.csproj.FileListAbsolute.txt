@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\bin\Debug\net7.0\ReflactionTry.exe
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\bin\Debug\net7.0\ReflactionTry.deps.json
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\bin\Debug\net7.0\ReflactionTry.runtimeconfig.json
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\bin\Debug\net7.0\ReflactionTry.dll
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\bin\Debug\net7.0\ReflactionTry.pdb
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\obj\Debug\net7.0\ReflactionTry.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\obj\Debug\net7.0\ReflactionTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\obj\Debug\net7.0\ReflactionTry.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\obj\Debug\net7.0\ReflactionTry.AssemblyInfo.cs
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\obj\Debug\net7.0\ReflactionTry.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\obj\Debug\net7.0\ReflactionTry.dll
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\obj\Debug\net7.0\refint\ReflactionTry.dll
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\obj\Debug\net7.0\ReflactionTry.pdb
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\obj\Debug\net7.0\ReflactionTry.genruntimeconfig.cache
+C:\Users\user\source\repos\ReflactionTry\ReflactionTry\obj\Debug\net7.0\ref\ReflactionTry.dll

@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\JsonTry\JsonTry\bin\Debug\net7.0\JsonTry.exe
+C:\Users\user\source\repos\JsonTry\JsonTry\bin\Debug\net7.0\JsonTry.deps.json
+C:\Users\user\source\repos\JsonTry\JsonTry\bin\Debug\net7.0\JsonTry.runtimeconfig.json
+C:\Users\user\source\repos\JsonTry\JsonTry\bin\Debug\net7.0\JsonTry.dll
+C:\Users\user\source\repos\JsonTry\JsonTry\bin\Debug\net7.0\JsonTry.pdb
+C:\Users\user\source\repos\JsonTry\JsonTry\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\JsonTry.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\JsonTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\JsonTry.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\JsonTry.AssemblyInfo.cs
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\JsonTry.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\JsonTry.csproj.CopyComplete
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\JsonTry.dll
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\refint\JsonTry.dll
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\JsonTry.pdb
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\JsonTry.genruntimeconfig.cache
+C:\Users\user\source\repos\JsonTry\JsonTry\obj\Debug\net7.0\ref\JsonTry.dll
