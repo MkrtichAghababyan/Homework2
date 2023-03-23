@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\FilmBoom\FilmBoom\bin\Debug\net7.0\FilmBoom.exe
+C:\Users\user\source\repos\FilmBoom\FilmBoom\bin\Debug\net7.0\FilmBoom.deps.json
+C:\Users\user\source\repos\FilmBoom\FilmBoom\bin\Debug\net7.0\FilmBoom.runtimeconfig.json
+C:\Users\user\source\repos\FilmBoom\FilmBoom\bin\Debug\net7.0\FilmBoom.dll
+C:\Users\user\source\repos\FilmBoom\FilmBoom\bin\Debug\net7.0\FilmBoom.pdb
+C:\Users\user\source\repos\FilmBoom\FilmBoom\obj\Debug\net7.0\FilmBoom.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FilmBoom\FilmBoom\obj\Debug\net7.0\FilmBoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FilmBoom\FilmBoom\obj\Debug\net7.0\FilmBoom.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FilmBoom\FilmBoom\obj\Debug\net7.0\FilmBoom.AssemblyInfo.cs
+C:\Users\user\source\repos\FilmBoom\FilmBoom\obj\Debug\net7.0\FilmBoom.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FilmBoom\FilmBoom\obj\Debug\net7.0\FilmBoom.dll
+C:\Users\user\source\repos\FilmBoom\FilmBoom\obj\Debug\net7.0\refint\FilmBoom.dll
+C:\Users\user\source\repos\FilmBoom\FilmBoom\obj\Debug\net7.0\FilmBoom.pdb
+C:\Users\user\source\repos\FilmBoom\FilmBoom\obj\Debug\net7.0\FilmBoom.genruntimeconfig.cache
+C:\Users\user\source\repos\FilmBoom\FilmBoom\obj\Debug\net7.0\ref\FilmBoom.dll
